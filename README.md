@@ -50,15 +50,15 @@ The project is designed to provide a simple and efficient platform for online fo
  * API testing with Postman
 
 # ▶️ How to Run the Project (Local Setup)
-1. Open Project Folder
+1. Open Project Folder <br>
     cd foodordering
-2. Install Backend Dependencies
+2. Install Backend Dependencies <br>
     npm install
-3. Start Backend Server (Node.js)
+3. Start Backend Server (Node.js) <br>
     node server.js
-4. Start Frontend (React App)
+4. Start Frontend (React App) <br>
     npm start
-5. After running the project, open in Browser
+5. After running the project, open in Browser <br>
     localhost:\<port-number\>
 
 # 🍹 Live Project Demo
