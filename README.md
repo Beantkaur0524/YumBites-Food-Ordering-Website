@@ -53,11 +53,11 @@ The system simplifies food ordering and management for customers, food providers
 1.  Open Project Folder <br>
     cd foodordering
 2. Install Backend Dependencies <br>
-   npm install
+    npm install
 3. Start Backend Server (Node.js) <br>
-   node server.js
+    node server.js
 4. Start Frontend (React App) <br>
-   npm start
+    npm start
 5. After running the project, Open in Browser <br>   
-   http://localhost:<PORT> 
+    localhost: <port-number> 
 
