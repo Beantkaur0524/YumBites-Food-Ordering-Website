@@ -58,6 +58,6 @@ The system simplifies food ordering and management for customers, food providers
     node server.js
 4. Start Frontend (React App) <br>
     npm start
-5. After running the project, Open in Browser <br>   
-    localhost: <port-number> 
+5. After running the project, Open in Browser   
+    localhost:<port-number> 
 
