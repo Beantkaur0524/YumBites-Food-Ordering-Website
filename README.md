@@ -61,4 +61,9 @@ The system simplifies food ordering and management for customers, food providers
 5. After running the project, Open in Browser   
    localhost:\<port-number\>
 
+# 🍹YumBites Project Demo
+![Home Page](Home_page.png)
+![YumBites Menu](Home_Menu.png)
+![YumBites Taste](About.jpeg)
+
 
