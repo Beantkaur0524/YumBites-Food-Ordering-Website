@@ -1,0 +1,16 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "background-clip",
+          "scroll-margin-top"
+        ]
+      }
+    ]
+  }
+}
