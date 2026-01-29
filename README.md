@@ -48,3 +48,16 @@ The system simplifies food ordering and management for customers, food providers
  * CRUD operations using MongoDB
  * Image upload using Multer
  * API testing with Postman
+
+# ▶️ How to Run the Project (Local Setup)
+1.  Open Project Folder <br>
+    cd foodordering
+2. Install Backend Dependencies <br>
+   npm install
+3. Start Backend Server (Node.js) <br>
+   node server.js
+4. Start Frontend (React App) <br>
+   npm start
+5. After running the project, Open in Browser <br>   
+   http://localhost:<PORT> 
+
